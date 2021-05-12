@@ -1,5 +1,11 @@
 # Facial-Emotion-Detection
 
+Data:
+Dervived from multiple data sources:
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+
+https://www.kaggle.com/deadskull7/fer2013
+
 Comparision between training and Validation:
 
 <img width="309" alt="Screen Shot 2021-04-21 at 6 59 44 PM" src="https://user-images.githubusercontent.com/47679090/117906202-77d7a780-b2a2-11eb-9d60-a18ea7077542.png">
